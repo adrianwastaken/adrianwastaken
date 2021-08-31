@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Adrian
+- 👀 I’m interested in Web Development and New Technologies
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on Websites using React and Vue
